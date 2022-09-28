@@ -1,0 +1,14 @@
+{
+    "Login": "ログイン",
+    "Register": "新規登録",
+    "Laravel": "FLOWER SHOP",
+    "E-Mail Address": "Eメールアドレス",
+    "Password": "パスワード",
+    "Remember Me": "ログインしたまま",
+    "Forgot Your Password?": "パスワードお忘れですか？",
+    "Logout": "ログアウトする",
+    "Name": "名前",
+    "Confirm Password": "パスワード再入力",
+    "The email has already been taken.": "Eメールは既に使用されています",
+    "The password must be at least 8 characters.": "パスワードは8文字以上にする必要があります。"
+}
